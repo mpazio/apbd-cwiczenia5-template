@@ -6,7 +6,7 @@ W trakcie niniejszych ćwiczeń ponownie skorzystamy z klas SqlConnection i SqlC
 
 Baza, którą wykorzystujemy zaprezentowana jest poniżej.
 
-![alt text](../Data/cw5DatabaseERD.PNG "Title")
+![alt text](./Data/cw5DatabaseERD.PNG "Title")
 
 Ponadto w pliku **create.sql** znajdziecie skrypt, który tworzy tabele i wypełnia je danymi.
 
