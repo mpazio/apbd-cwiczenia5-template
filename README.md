@@ -48,8 +48,8 @@ Ponadto w pliku **create.sql** znajdziecie skrypt, który tworzy tabele i wypeł
 
 4. Następnie dodaj drugi kontroler **Warehouses2Controller** z końcówką odpowiadająca na żądania wysłane na adres **HTTP POST /api/warehouses2**
 
-- Końcówka realizuje tą samą logikę, ale w tym wypadku uruchamiana jest
-  procedura składowana (załączona w pliku **proc.sql**).
+   - Końcówka realizuje tą samą logikę, ale w tym wypadku uruchamiana jest
+     procedura składowana (załączona w pliku **proc.sql**).
 
 ## Podpowiedzi
 
